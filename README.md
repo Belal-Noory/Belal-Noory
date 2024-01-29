@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Belal-Noory
-- 👀 I’m interested in developing and designing websites, softwares, databases, and mobile applications.
-- 🌱 I’m currently learning Reactjs, React Native, Advance Nodejs Technics.
-- 💞️ I’m looking to collaborate on website development, API integration, End point development.
-- 📫 How to reach me: you can reach me using my whasapp +93 797 160 881 or my personal email address belalnoory2@gmail.com
+👋 Hello World! I'm Belal Noory
 
-<!---
-Belal-Noory/Belal-Noory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me:
+Passionate about crafting innovative solutions through code and technology. With a background in project management, software development, and teaching, I thrive on tackling challenges that bridge the gap between technology and human impact.
+
+👨‍💻 Tech Stack:
+
+Languages: Java, C++, PHP, JavaScript, Nodejs
+Web: HTML, CSS, React, Node.js
+Database: SQL Server, MySQL
+Mobile: React Native, Android (Java)
+
+🌐 Projects:
+Online Recruitment System
+E-Learning Management System
+Humanitarian Database Systems
+
+🎓 Education:
+Bachelor's in Computer Science | SHARQ University
+
+🌍 Current Focus:
+Diving deep into Artificial Intelligence and Robotics
+Exploring the endless possibilities of tech for humanitarian causes
+Let's collaborate and code for a better world! 🌈✨
+
+📧 Contact: belalnoory2@gmail.com
