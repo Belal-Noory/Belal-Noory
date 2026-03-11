@@ -23,4 +23,5 @@ Diving deep into Artificial Intelligence and Robotics
 Exploring the endless possibilities of tech for humanitarian causes
 Let's collaborate and code for a better world! 🌈✨
 
-📧 Contact: belalnoory2@gmail.com
+📧 Contact: belalnoory2@gmail.com | contact@belalnoory.online
+🌐 belalnoory.online
